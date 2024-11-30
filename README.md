@@ -1,3 +1,12 @@
+Simple React-random-Joke-Generator
+
+![Screenshot 2024-11-30 084012](https://github.com/user-attachments/assets/397e7071-e0a6-4bb1-ac3d-a1f72a85afd3)
+
+
+![Screenshot 2024-11-30 083947](https://github.com/user-attachments/assets/0193296f-9fae-4091-a490-1905607f70b4)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
