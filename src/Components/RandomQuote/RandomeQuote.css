@@ -1,0 +1,41 @@
+.container {
+  background-color: #dc5437;
+  color: white;
+  padding: 70px;
+  border-radius: 10px;
+  max-width: 400px;
+  margin: auto;
+  margin-top: 200px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+  text-align: center;
+}
+
+.joke {
+  font-size: 1.5rem;
+  font-weight: bold;
+  margin-bottom: 15px;
+  font-family: "Arial", sans-serif;
+}
+
+.line {
+  height: 2px;
+  background-color: white;
+  margin-bottom: 15px;
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* Bottom icon */
+.bottom {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+/* Icon styling */
+.icons img {
+  width: 30px;
+  height: 30px;
+  cursor: pointer;
+}
